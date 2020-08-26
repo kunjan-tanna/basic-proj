@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,4BAGG,eACH,CAEA,KACG,kBACH,CAEA,KACG,gBACH","file":"main.b370f567.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n   border-radius: 0px;\n}\n\nbody {\n   background: #343a40;\n}\n\n.msg {\n   margin-top: 246px;\n}\n"]}
