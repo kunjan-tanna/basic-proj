@@ -1,9 +1,16 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import * as trackerAction from "../../../redux/actions/tracker/tracker";
 
-class CountryPicker extends React.Component {
-   render() {
-      return <h4>Welcome to CountryPicker</h4>;
-   }
-}
+const CountryPicker = () => {
+   // const [dailydata, SetDailyData] = useState({});
+   // useEffect(() => {
+   //    const fetchApi = async () => {
+   //       SetDailyData(await trackerAction.fetchDailyData());
+   //    };
+   //    fetchApi();
+   // });
+
+   return <h3> CountryPicker</h3>;
+};
 
 export default CountryPicker;

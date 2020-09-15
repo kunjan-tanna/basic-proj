@@ -10,7 +10,7 @@ const Chart = () => {
    //    fetchApi();
    // });
 
-   return <h3> HIII</h3>;
+   return <h3> Chart</h3>;
 };
 
 export default Chart;
