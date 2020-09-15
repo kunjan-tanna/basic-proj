@@ -1,0 +1,9 @@
+To deploy react Code on server :
+1) git status
+2) git add .
+3) git commit -m "MSG"
+4) git push origin master
+
+NOte:
+After commiting file then run this cmd:
+1) npm run deploy
